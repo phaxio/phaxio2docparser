@@ -1,0 +1,21 @@
+{
+  "name": "Phaxio to Docparser",
+  "description": "This app will accept Phaxio receive callbacks and forward documents to docparser.",
+  "keywords": [
+    "fax",
+    "docparser",
+    "pdf"
+  ],
+  "website": "https://www.phaxio.com/",
+  "repository": "https://github.com/phaxio/phaxio2docparser",
+  "logo": "https://console.phaxio.com/images/logo-dark.png",
+  "env": {
+    "DOCPARSER_PARSER_ID": {
+      "description": "The ID of your parser in Docparser"
+    },
+    "DOCPARSER_SECRET": {
+      "description": "Your Docparser API secret for accessing the API"
+    }
+  },
+  "image": "heroku/nodejs",
+}
