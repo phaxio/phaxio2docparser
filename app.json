@@ -6,6 +6,7 @@
     "docparser",
     "pdf"
   ],
+  "success_url": "/",
   "website": "https://www.phaxio.com/",
   "repository": "https://github.com/phaxio/phaxio2docparser",
   "logo": "https://console.phaxio.com/images/logo-dark.png",
