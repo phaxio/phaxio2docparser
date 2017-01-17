@@ -17,5 +17,5 @@
       "description": "Your Docparser API secret for accessing the API"
     }
   },
-  "image": "heroku/nodejs",
+  "image": "heroku/nodejs"
 }
